@@ -1,0 +1,18 @@
+/* Style set 1. */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    color: navy;
+}
+
+select {
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+#text {
+    text-align: center;
+    color: red;
+    }      

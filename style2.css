@@ -1,0 +1,18 @@
+/* Style set 2. */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightgreen;
+    color: darkgreen;
+}
+
+select {
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+#text {
+    text-align: right;
+    color: black;
+    }  

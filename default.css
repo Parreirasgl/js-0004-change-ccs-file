@@ -1,0 +1,11 @@
+/* Default style. */
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+select {
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
